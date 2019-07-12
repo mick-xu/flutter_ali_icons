@@ -1,2 +1,6 @@
-# flutter_ali_icons
-A Flutter package that provides icons from Ali Iconfont.com
+# AliIcons
+
+Flutter 图标包，包中使用的图标全部是从阿里图标库中挑选出来的
+
+## Getting Started
+
