@@ -1,3 +1,7 @@
+## 0.0.2
+
+* Remove two icons
+
 ## 0.0.1 - 2019.07.12
 
-* 集成阿里图标库 102 个图标
+* Integrated Ali Icon Library with 102 Icons

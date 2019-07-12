@@ -11,13 +11,10 @@ dependencies:
   ali_icons: ^0.0.1
 ```
 
-### 2. Install it
-You can install packages from the command line:
-```dart
-import 'package:ali_icons/ali_icons.dart';
-```
 ### 3. Example
 ```dart
+import 'package:ali_icons/ali_icons.dart';
+
 void main() {
   runApp(Scaffold(
     body: Center(
