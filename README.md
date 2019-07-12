@@ -16,5 +16,14 @@ You can install packages from the command line:
 ```dart
 import 'package:ali_icons/ali_icons.dart';
 ```
-
+### 3. Example
+```dart
+void main() {
+  runApp(Scaffold(
+    body: Center(
+      child: Icon(AliIcons.user_outline),
+    ),
+  ));
+}
+```
 
