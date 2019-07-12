@@ -1,8 +1,11 @@
 name: ali_icons
-description: 精选阿里图标库图标
+description: A Flutter package that provides icons from Ali iconfont.com
 version: 0.0.1
-author: mickxu
-homepage:
+author: Mick Xu <mick@holdcode.com>
+homepage: http://www.devaid.cn
+repository: https://github.com/mick-xu/flutter_ali_icons
+issue_tracker: https://github.com/mick-xu/flutter_ali_icons/issues
+documentation: https://github.com/mick-xu/flutter_ali_icons/blob/master/README.md
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

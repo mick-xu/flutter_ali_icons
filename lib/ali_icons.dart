@@ -27,7 +27,7 @@ class AliIcons {
   const IconData(0xe636, fontFamily: _fontFamily,);
   static const IconData wechart =
   const IconData(0xe635, fontFamily: _fontFamily,);
-  static const IconData alipay_pie =
+  static const IconData alipay =
   const IconData(0xe633, fontFamily: _fontFamily,);
   static const IconData male_outline =
   const IconData(0xe656, fontFamily: _fontFamily,);
@@ -39,8 +39,6 @@ class AliIcons {
   const IconData(0xe68d, fontFamily: _fontFamily,);
   static const IconData jinritoutiao_logo =
   const IconData(0xe62f, fontFamily: _fontFamily,);
-  static const IconData alipay =
-  const IconData(0xe661, fontFamily: _fontFamily,);
   static const IconData verification =
   const IconData(0xe622, fontFamily: _fontFamily,);
   static const IconData zhifubao =
@@ -75,8 +73,6 @@ class AliIcons {
   const IconData(0xe626, fontFamily: _fontFamily,);
   static const IconData alipay_outline =
   const IconData(0xe640, fontFamily: _fontFamily,);
-  static const IconData gender =
-  const IconData(0xe60b, fontFamily: _fontFamily,);
   static const IconData weibo_circle =
   const IconData(0xe6cd, fontFamily: _fontFamily,);
   static const IconData weibo_logo =
