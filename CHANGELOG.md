@@ -1,3 +1,7 @@
+## 0.0.3
+
+* fix bugs
+
 ## 0.0.2
 
 * Remove two icons

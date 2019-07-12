@@ -8,7 +8,7 @@ Flutter 图标，包中使用的图标全部是从阿里图标库中挑选出来
 Add this to your package's pubspec.yaml file:
 ```yaml
 dependencies:
-  ali_icons: ^0.0.2
+  ali_icons: ^0.0.3
 ```
 
 ### 2. Example
