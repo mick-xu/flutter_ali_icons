@@ -1,6 +1,10 @@
+## 0.0.5
+
+* Add some icons
+
 ## 0.0.3
 
-* fix bugs
+* fixed bugs
 
 ## 0.0.2
 
