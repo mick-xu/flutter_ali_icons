@@ -2,25 +2,36 @@ library ali_icons;
 
 import 'package:flutter/material.dart';
 
+/// 阿里图标库
 class AliIcons {
+  // fontFamily
   static const String _fontFamily = "iconfont";
 
+  // 发现
   static const IconData discover = const IconData(
     0xe608,
     fontFamily: _fontFamily,
   );
+
+  // 纸飞机
   static const IconData paper_plane = const IconData(
     0xe662,
     fontFamily: _fontFamily,
   );
+
+  // 相册
   static const IconData album = const IconData(
     0xe723,
     fontFamily: _fontFamily,
   );
+
+  // 相机
   static const IconData camera = const IconData(
     0xe620,
     fontFamily: _fontFamily,
   );
+
+  // 分享
   static const IconData share_circle = const IconData(
     0xe63f,
     fontFamily: _fontFamily,
